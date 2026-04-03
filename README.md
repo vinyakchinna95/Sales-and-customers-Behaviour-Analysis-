@@ -55,7 +55,7 @@ This project demonstrates an end-to-end data analytics workflow, transforming ra
 - Displays key metrics such as revenue, customers, and ratings  
 - Visualizes trends across categories, age groups, and locations  
 
-👉 *(Add your Tableau dashboard link here)*  
+👉 *([Add your Tableau dashboard link here](https://public.tableau.com/app/profile/dindi.vinayak.tejavath/viz/SalesAndCustomersBehaviourAnalyticsDashboard/Dashboard1))*  
 
 ---
 
